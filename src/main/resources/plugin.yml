@@ -1,0 +1,8 @@
+name: rpdownloaderanyversions
+main: ru.euj3ne.rpdownloaderanyversions.Main
+version: '${project.version}'
+author: euj3ne
+
+commands:
+   resourcepack:
+      aliases: [rp]

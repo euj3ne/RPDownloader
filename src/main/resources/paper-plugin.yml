@@ -1,0 +1,4 @@
+name: rpdownloaderanyversions
+version: '${project.version}'
+main: ru.euj3ne.rpdownloaderanyversions.Main
+api-version: '1.16'
